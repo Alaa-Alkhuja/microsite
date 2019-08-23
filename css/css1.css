@@ -1,0 +1,67 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-size: 200%;
+    font-weight: ;
+    font-style: ;
+    color:blue ;  
+    background-color: ;
+    background-image: url('../img/pic1.jpg');
+    background-size: 100%;
+    background-repeat: ;
+    background-position: ;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-bottom: ;
+    margin-left: 15%;
+}
+
+nav ul li {
+    margin-right: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    left: 60%
+}
+
+nav ul li a, a:link, a>:visited {
+    color: red;
+    text-decoration: none;
+}
+
+
+a {
+    color:blue;
+}
+
+nav ul li a:hover {
+    background: #FFFCC8;
+    color: white;
+    background-color: red;
+    text-shadow: 1px 1px 1px darkgreen, 2px 2px 2px white, 3px 3px 3px blue;
+}
+
+nav ul {
+    background-color: rgba(100, 100, 100, 0.4)
+}
+
+a:hover {
+    background: #FFFCC8;
+    color: navy;
+    text-shadow: 1px 1px 1px darkgreen, 2px 2px 2px blue, 3px 3px 3px red;
+}
+
+.menu {
+    text-align: left;
+}
+
+p {
+    text-shadow: 1px 1px 1px grey, 2px 2px 2px green, 3px 3px 3px white;
+}
+
+.navigation_links {
+    text-shadow: 1px 1px 1px grey, 2px 2px 2px green, 3px 3px 3px white;
+    -webkit-text-stroke: red 1px;
+}
+
+#img1:hover
